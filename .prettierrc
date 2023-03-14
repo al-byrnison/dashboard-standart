@@ -1,0 +1,21 @@
+{
+  "tabWidth": 2,
+  "useTabs": false,
+  "proseWrap": "always",
+  "resolveGlobalModules": true,
+  "singleAttributePerLine": true,
+  "vueIndentScriptAndStyle": true,
+  "semi": true,
+  "trailingComma": "es5",
+  "bracketSpacing": true,
+  "bracketSameLine": false,
+  "arrowParens": "always",
+  "htmlWhitespaceSensitivity": "css",
+  "endOfLine": "lf",
+  "singleQuote": true,
+  "stylelintIntegration": true,
+  "tslintIntegration": true,
+  "jsxSingleQuote": true,
+  "editorconfig": false,
+  "printWidth": 80
+}
